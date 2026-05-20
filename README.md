@@ -1,4 +1,5 @@
-# House Prices — Pipeline de ML em Produção
+# Série: Previsão de Preços de Imóveis
+# 3. Modelo em Produção — API, Versionamento e Monitoramento
 
 Pipeline de MLOps aplicado ao modelo LightGBM do [House Prices - Advanced Regression Techniques](https://www.kaggle.com/competitions/house-prices-advanced-regression-techniques), cobrindo treinamento, serving via API REST e monitoramento de data drift.
 
